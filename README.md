@@ -1,1 +1,2 @@
 # Pixel-manipulation-tool
+Pixel manipulation for encryption and decryption involves altering the pixel values of an image to encode information securely. Techniques like steganography embed hidden messages within an image, making the changes imperceptible to the human eye. Encryption algorithms modify pixel values based on a key, ensuring that only authorized parties can decode the message. Decryption involves reversing these changes using the appropriate key. This method provides a secure way to transmit sensitive information through visual data.
